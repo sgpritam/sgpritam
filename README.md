@@ -1,28 +1,23 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://linkedin.com/in/sgpritam">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
   </div>
 
-## :woman_technologist: About Me : 
+## 👨‍💻: About Me : 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope:  I’m currently working at Nagarro in the UI Team.
 
-- :seedling: Exploring React js, Redux and React Hooks.
+- :seedling: Ask me about React js, Redux and React Hooks.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
@@ -43,4 +38,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ## :fire: My Stats :
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sgpritam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sgpritam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+  </div>
